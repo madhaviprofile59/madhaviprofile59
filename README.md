@@ -33,6 +33,7 @@ Here are some of my completed and ongoing Data Analytics projects:
 - 🏥 [**NHS Healthcare Operations Analysis**](https://github.com/madhaviprofile59/NHS_Healthcare_Efficiency_Analysis)) – Healthcare Data Analysis
 - 🔐 [**Automated Compliance Audit & Intent Classification**](https://github.com/madhaviprofile59/Automated-Compliance-Audit-Deterministic-Intent-Classification-Engine)) – Python, SQL, Data Quality
 - 🍽️ [**Restaurant Market Analysis**](https://github.com/madhaviprofile59/Restaurant-Market-Analysis)) – Python, Pandas, Exploratory Data Analysis, Tableau
+ - 🧪 [**Marketing A/B Testing, Lift & ROAS Analytics**](https://github.com/madhaviprofile59/Marketing_AB_Test_Lift_Funnel_Performance_ROAS-Analytics) – Python, Pandas, Hypothesis Testing, Statistical Analysis, SQL
 
 ---
 
